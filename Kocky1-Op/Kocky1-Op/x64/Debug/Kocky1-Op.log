@@ -1,0 +1,4 @@
+﻿  Kocky1-Op.cpp
+C:\Users\1slav\source\repos\Kocky1-Op\Kocky1-Op\Kocky1-Op.cpp(77,47): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\1slav\source\repos\Kocky1-Op\Kocky1-Op\Kocky1-Op.cpp(79,47): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+  Kocky1-Op.vcxproj -> C:\Users\1slav\source\repos\Kocky1-Op\x64\Debug\Kocky1-Op.exe
